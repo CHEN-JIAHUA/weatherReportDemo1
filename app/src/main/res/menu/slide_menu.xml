@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_page"
+        android:title="主页" />
+    <item
+        android:id="@+id/select_area_page"
+        android:title="地区选择" />
+</menu>
